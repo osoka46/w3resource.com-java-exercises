@@ -1,8 +1,16 @@
 package Question_20;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
+        Scanner input=new Scanner(System.in);
+        System.out.println("enter a number to calculate hexadecimal form");
 
+        int number= input.nextInt();
+
+        String a=Integer.toString(number,16);
+        System.out.println(a);
     }
 }
 /*
