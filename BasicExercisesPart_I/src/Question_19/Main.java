@@ -4,24 +4,34 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        String a;
+        String b;
+        String c="";
         Scanner input=new Scanner(System.in);
         System.out.println("enter a number to calculate binary form");
 
         int number= input.nextInt();
 
-        String a=Integer.toBinaryString(number);
-        String b=Integer.toString(number,2);
-        String c="";
+        a=Integer.toBinaryString(number);
+        b=Integer.toString(number,2);
 
         while (number>0)
         {
-            c+=(number%2==0)?"0":"1";
+            c+=number%2==0?"0":1;
             number/=2;
         }
 
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
+
+
+
+
+
+
+
+
 
 
 
