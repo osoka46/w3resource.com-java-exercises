@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_43;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

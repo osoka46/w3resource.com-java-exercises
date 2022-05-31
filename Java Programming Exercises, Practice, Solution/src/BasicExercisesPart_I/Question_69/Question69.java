@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_69;
+
 import java.util.Scanner;
 
 public class Question69 {

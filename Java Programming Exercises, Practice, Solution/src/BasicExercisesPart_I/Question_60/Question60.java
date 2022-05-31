@@ -1,3 +1,4 @@
+package BasicExercisesPart_I.Question_60;
 
 import java.util.Scanner;
 import static java.lang.System.*;

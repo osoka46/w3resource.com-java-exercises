@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_66;
+
 public class Question66 {
     public static boolean checkPrimeNumbers(int number)
     {

@@ -1,4 +1,4 @@
-package Question72;
+package BasicExercisesPart_I.Question_72;
 
 import static java.lang.System.*;
 

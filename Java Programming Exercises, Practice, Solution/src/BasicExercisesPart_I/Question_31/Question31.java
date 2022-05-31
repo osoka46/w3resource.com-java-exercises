@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_31;
+
 public class Question31 {
     public static void main(String[] args) {
         System.out.println("version: "+System.getProperty("java.version")+"\n"+"Runtime Version: "+System.getProperty("java.runtime.version")+"\n"+"Java Home: "+System.getProperty("java.home"));

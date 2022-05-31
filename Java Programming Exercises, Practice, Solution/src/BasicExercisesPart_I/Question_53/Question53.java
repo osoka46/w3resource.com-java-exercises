@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_53;
+
 import java.util.Scanner;
 
 import static java.lang.System.*;

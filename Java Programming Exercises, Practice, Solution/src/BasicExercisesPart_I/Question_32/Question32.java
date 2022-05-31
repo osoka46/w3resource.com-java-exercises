@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_32;
+
 public class Question32 {
     public static void main(String[] args) {
         int number1=25;

@@ -1,7 +1,4 @@
-package Question84;
-
-import Question83.ARR;
-
+package BasicExercisesPart_I.Question_84;
 import java.util.Scanner;
 
 public class Main {

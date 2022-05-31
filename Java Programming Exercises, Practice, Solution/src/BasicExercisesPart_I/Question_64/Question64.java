@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_64;
+
 import java.util.Scanner;
 
 public class Question64 {

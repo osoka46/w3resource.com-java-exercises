@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_51;
+
 import java.util.Scanner;
 import static java.lang.System.*;
 public class Question51 {

@@ -1,4 +1,4 @@
-package Question71;
+package BasicExercisesPart_I.Question_71;
 
 public class Text {
     private String text1;

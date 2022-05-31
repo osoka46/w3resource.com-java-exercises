@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_50;
+
 import java.util.Arrays;
 
 public class Question50 {

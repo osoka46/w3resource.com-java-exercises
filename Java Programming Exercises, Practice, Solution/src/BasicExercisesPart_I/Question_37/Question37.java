@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_37;
+
 import java.util.Scanner;
 
 public class Question37 {

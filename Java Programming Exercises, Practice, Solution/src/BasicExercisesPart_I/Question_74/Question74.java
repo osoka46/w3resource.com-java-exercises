@@ -1,4 +1,4 @@
-package Question74;
+package BasicExercisesPart_I.Question_74;
 
 import java.util.ArrayList;
 import java.util.Scanner;

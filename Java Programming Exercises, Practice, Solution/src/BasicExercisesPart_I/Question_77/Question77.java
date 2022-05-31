@@ -1,4 +1,4 @@
-package Question77;
+package BasicExercisesPart_I.Question_77;
 
 import java.util.Scanner;
 

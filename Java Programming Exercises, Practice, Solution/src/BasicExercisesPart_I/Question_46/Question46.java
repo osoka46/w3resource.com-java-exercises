@@ -1,3 +1,4 @@
+package BasicExercisesPart_I.Question_46;
 
 public class Question46 {
     public static void main(String[] args) {

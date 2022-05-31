@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_28;
+
 public class Question28 {
     public static void main(String[] args) {
         String sayi="25";

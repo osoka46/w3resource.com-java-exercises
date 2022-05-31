@@ -1,3 +1,5 @@
+package BasicExercisesPart_I.Question_36;
+
 public class Question36 {
     public static void main(String[] args) {
         double radius = 6371.01;

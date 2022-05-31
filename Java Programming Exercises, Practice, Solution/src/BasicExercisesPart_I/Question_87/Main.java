@@ -1,4 +1,4 @@
-package Question87;
+package BasicExercisesPart_I.Question_87;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

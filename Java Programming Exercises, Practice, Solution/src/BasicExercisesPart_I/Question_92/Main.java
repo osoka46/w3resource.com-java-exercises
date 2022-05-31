@@ -1,4 +1,4 @@
-package Question92;
+package BasicExercisesPart_I.Question_92;
 
 public class Main {
     public static void main(String[] args) {
