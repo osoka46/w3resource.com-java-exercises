@@ -10,7 +10,7 @@ public class Main {
         ArrayList<Integer>oddNumbers=new ArrayList<>();
         for(int x=0; x<arr.size();x++)
         {
-            if (arr.get(x))
+
         }
     }
     public static void main(String[] args) {
